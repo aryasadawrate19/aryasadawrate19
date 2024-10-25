@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate student developer with a knack for quickly <br>adapting to new programming languages and frameworks. My primary <br>focus is on creating innovative solutions in Python and Java, allowing <br>me to tackle a wide range of projects effectively. I thrive on learning <br>new technologies and continuously expanding my skill set to enhance <br>my development capabilities.
+I am a passionate student developer with a knack for quickly adapting to new programming languages and frameworks. My primary focus is on creating innovative solutions in Python and Java, allowing me to tackle a wide range of projects effectively. I have a keen interest in AI and ML technologies, and I thrive on learning new tools and techniques to enhance my development capabilities and contribute to cutting-edge solutions
 
 
 ## 🌐 Socials:
