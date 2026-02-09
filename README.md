@@ -3,9 +3,12 @@ I am a passionate student developer with a knack for quickly adapting to new pro
 
 
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://aryas-ai.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryasadawrate19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-sadawrate-894a0a305)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aryasadawrate)
+
+
 
 
 # 💻 Tech Stack:
