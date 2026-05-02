@@ -1,6 +1,13 @@
 # 💫 About Me:
-I am a passionate student developer with a knack for quickly adapting to new programming languages and frameworks. My primary focus is on creating innovative solutions in Python and Java, allowing me to tackle a wide range of projects effectively. I have a keen interest in AI and ML technologies, and I thrive on learning new tools and techniques to enhance my development capabilities and contribute to cutting-edge solutions
+I write code in Python and Java, mostly because the bugs and I have developed a deeply personal relationship.
 
+I enjoy diving into AI and ML, occasionally convincing machines to behave intelligently, which is more than I can say for some of my programs at 2am.
+
+Quick to pick up new frameworks, quicker to forget semicolons when they actually matter.
+
+Currently building “innovative solutions,” which is a polite way of saying I Google things efficiently and somehow make them work.
+
+If it compiles on the first try, I immediately assume something is wrong.
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://aryas-ai.vercel.app)
